@@ -1,0 +1,15 @@
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\Pig_Latin.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\Pig_Latin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\Pig_Latin.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\Pig_Latin.AssemblyInfo.cs
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\Pig_Latin.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\bin\Debug\net6.0\Pig_Latin.exe
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\bin\Debug\net6.0\Pig_Latin.deps.json
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\bin\Debug\net6.0\Pig_Latin.runtimeconfig.json
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\bin\Debug\net6.0\Pig_Latin.dll
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\bin\Debug\net6.0\Pig_Latin.pdb
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\Pig_Latin.dll
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\refint\Pig_Latin.dll
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\Pig_Latin.pdb
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\Pig_Latin.genruntimeconfig.cache
+C:\Users\Nick\source\repos\Pig_Latin\Pig_Latin\obj\Debug\net6.0\ref\Pig_Latin.dll
